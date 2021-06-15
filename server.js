@@ -22,14 +22,14 @@ app.get('/',
 
 app.get('/weather', (req, res)=>{ 
   const resData = weatherData.data.map (obj => new weather (obj)); 
-    res.json(weatherData);
+    res.status(200).send(resData);
 });
 
 class weather { 
 
   constructor (weatherData) {
     this.description = weatherData.weather.description;
-    this.data = weatherData.valid_date;
+    this.date = weatherData.valid_date;
 
   }
 
