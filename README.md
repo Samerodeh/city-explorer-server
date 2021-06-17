@@ -1,16 +1,17 @@
 # city-explorer-server 
 
-# Number and name of feature: I used 3 feature
+# Number and name of feature: I used 4 feature
 
 * API 
 * React Bootstrap
 * react axios
+* Refactor
 
-* Start time: 3 pm
+* Start time: 12 am
 
-* End time: 8:30 am
+* End time: 3 am
 
-## Actual time needed to complete: 5 and half hours
+## Actual time needed to complete: 3 hours
 
 
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
