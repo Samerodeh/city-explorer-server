@@ -7,11 +7,11 @@
 * react axios
 * Refactor
 
-* Start time: 12 am
+* Start time: 1 am
 
 * End time: 3 am
 
-## Actual time needed to complete: 3 hours
+## Actual time needed to complete: 2 hours
 
 
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
@@ -32,6 +32,7 @@
 4. Node Js 
 5. react axios
 
+
 ## Change Log
 
 
@@ -45,4 +46,3 @@
 
 2. Dana Keswani she is assistant teacher in LTUC college - her GitHub account https://github.com/Dana-Kiswani
 
-3. Rana Abu Samaha she is assistant teacher in LTUC college
